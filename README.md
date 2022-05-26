@@ -2,6 +2,12 @@
 
 This project is a MERN Stack Application (MongoDB, Express.JS, React.JS, Node.JS)
 
+## Initial set-up
+
+Open the terminal in the root folder and run `npm install`.
+
+Also navigate to `/client` folder and run `npm install` to install React.JS.
+
 ## Available Scripts
 
 ### Backend - Node.JS
